@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e41f1b-e786-4673-b8e8-64a029e25b63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/browser_view.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/browser_view.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/file_browser.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/file_browser.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/file_browser_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/file_browser_test.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578305566765</updated>
       <workItem from="1582690213949" duration="1282000" />
-      <workItem from="1582693372412" duration="1075000" />
+      <workItem from="1582693372412" duration="1446000" />
     </task>
     <servers />
   </component>

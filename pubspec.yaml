@@ -38,20 +38,20 @@ flutter:
 
   # To add assets to your plugin package, add an assets section, like this:
   assets:
-   - packages/file_browser/assets/images/folder.png
-   - packages/file_browser/assets/images/image.png
-   - packages/file_browser/assets/images/morbit_chat_fiile_icon_ppt.png
-   - packages/file_browser/assets/images/morbit_chat_fiile_icon_word.png
-   - packages/file_browser/assets/images/morbit_chat_fiile_icon_excel.png
-   - packages/file_browser/assets/images/txt.png
-   - packages/file_browser/assets/images/file.png
-   - packages/file_browser/assets/images/zip.png
-   - packages/file_browser/assets/images/mp3.png
-   - packages/file_browser/assets/images/video.png
-   - packages/file_browser/assets/images/psd.png
-   - packages/file_browser/assets/images/unknown.png
-   - packages/file_browser/assets/images/image.jpg
-   - packages/file_browser/assets/images/morbit_chat_fiile_icon_pdf.png
+   - packages/lw_file_browser/assets/images/folder.png
+   - packages/lw_file_browser/assets/images/image.png
+   - packages/lw_file_browser/assets/images/morbit_chat_fiile_icon_ppt.png
+   - packages/lw_file_browser/assets/images/morbit_chat_fiile_icon_word.png
+   - packages/lw_file_browser/assets/images/morbit_chat_fiile_icon_excel.png
+   - packages/lw_file_browser/assets/images/txt.png
+   - packages/lw_file_browser/assets/images/file.png
+   - packages/lw_file_browser/assets/images/zip.png
+   - packages/lw_file_browser/assets/images/mp3.png
+   - packages/lw_file_browser/assets/images/video.png
+   - packages/lw_file_browser/assets/images/psd.png
+   - packages/lw_file_browser/assets/images/unknown.png
+   - packages/lw_file_browser/assets/images/image.jpg
+   - packages/lw_file_browser/assets/images/morbit_chat_fiile_icon_pdf.png
   #
   # For details regarding assets in packages, see
   # https://flutter.dev/assets-and-images/#from-packages

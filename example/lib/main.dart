@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:file_browser/file_browser.dart';
+import 'package:lw_file_browser/file_browser.dart';
 
 void main() => runApp(MaterialApp(
       home: MyApp(),
