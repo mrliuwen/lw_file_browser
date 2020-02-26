@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28e41f1b-e786-4673-b8e8-64a029e25b63" name="Default Changelist" comment="" />
+    <list default="true" id="28e41f1b-e786-4673-b8e8-64a029e25b63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/file_browser.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/file_browser.dart" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,16 +16,6 @@
         <option value="Dart File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>openFile</find>
-      <find>Common</find>
-      <find>selectIcon</find>
-      <find>basename</find>
-      <find>import \'package\:path\/path\.dart\' as p\;\n</find>
-      <find>p.</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578305566765</updated>
       <workItem from="1582690213949" duration="1282000" />
+      <workItem from="1582693372412" duration="419000" />
     </task>
     <servers />
   </component>
