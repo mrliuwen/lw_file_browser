@@ -1,6 +1,5 @@
 import 'dart:async';
 
-import 'package:file_browser/common.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
@@ -8,6 +7,8 @@ import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:path/path.dart' as p;
 import 'package:intl/intl.dart';
+
+import 'common.dart';
 
 /// 点击一个文件夹，传入文件夹的路径，显示该文件夹下的文件和文件夹
 /// 点击一个文件，打开

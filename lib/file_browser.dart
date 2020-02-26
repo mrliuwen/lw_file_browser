@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:file_browser/browser_view.dart';
-import 'package:file_browser/common.dart';
+import 'package:lw_file_browser/browser_view.dart';
+import 'package:lw_file_browser/common.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
